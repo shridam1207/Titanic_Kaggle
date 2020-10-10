@@ -1,1 +1,2 @@
 # Titanic_Kaggle
+This project is based on the Titanic Passengers Survival prediction hosted on Kaggle. I have performed extensive EDA and the best score of my model is achieved through Logistic Regression Algorithm. You can perform other operations like PCA and advanced techniques of Missing values Imputation and thus even a greater score can be achieved through various calssification models eg. SVC or Random Forests.
